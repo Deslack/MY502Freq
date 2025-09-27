@@ -14,7 +14,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 13,PMR 13,446.15625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
 14,PMR 14,446.16875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
 15,PMR 15,446.18125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
-16,PMR 16,446.19375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W
+16,PMR 16,446.19375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
 17,V17,145.2125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
 18,V18,145.225,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
 19,V19,145.2375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
@@ -160,3 +160,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 159,TEa 9M4RTK,146.75,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Kesing Local
 160,PHA 9M4RTS,146.9375,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Sulai Transnational
 161,TEA 9M4RAS,147.925,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Geliga Transnational
+
