@@ -1,0 +1,162 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,PMR 1,446.00625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+2,PMR 2,446.01875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+3,PMR 3,446.03125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+4,PMR 4,446.04375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+5,PMR 5,446.05625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+6,PMR 6,446.06875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+7,PMR 7,446.08125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+8,PMR 8,446.09375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+9,PMR 9,446.10625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+10,PMR 10,446.11875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+11,PMR 11,446.13125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+12,PMR 12,446.14375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+13,PMR 13,446.15625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+14,PMR 14,446.16875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+15,PMR 15,446.18125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W,,,,,
+16,PMR 16,446.19375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,0.5W
+17,V17,145.2125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+18,V18,145.225,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+19,V19,145.2375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+20,V20,145.25,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+21,V21,145.2625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+22,V22,145.275,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+23,V23,145.2875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+24,V24,145.3,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+25,V25,145.3125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+26,V26,145.325,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+27,V27,145.3375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+28,V28,145.35,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+29,V29,145.3625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+30,V30,145.375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+31,V31,145.3875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+32,V32,145.4,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+33,V33,145.4125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+34,V34,145.425,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+35,V35,145.4375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+36,V36,145.45,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+37,V37,145.4625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+38,V38,145.475,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+39,V39,145.4875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+40,V40,145.5,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+41,V41,145.5125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+42,V42,145.525,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+43,V43,145.5375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+44,V44,145.55,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+45,V45,145.5625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+46,V46,145.575,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+47,V47,145.5875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+48,V48,146.4,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+49,V49,146.4125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+50,V50,146.425,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+51,V51,146.4375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+52,V52,146.45,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+53,V53,146.4625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+54,V54,146.475,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+55,V55,146.4875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+56,V56,146.5,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+57,V57,146.5125,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+58,V58,146.525,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+59,V59,146.5375,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+60,V60,146.55,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+61,V61,146.5625,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+62,V62,146.575,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+63,V63,146.5875,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W
+64,V64,147.435,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+65,V65,147.465,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+66,V66,147.495,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+67,V67,147.525,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+68,V68,147.555,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+69,V69,147.585,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+70,APRS-VHF,144.39,,0,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+71,APRS-UHF,438.4,,0.6,,88.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,
+72,JHJ 9M4RPL,146.65,-,0.6,Tone,127.3,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,JASRA Gunung Pulai Linking
+73,JHJ 9M4RJN,145.7,-,0.6,Tone,127.3,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,JASRA Bukit Banang Linking
+74,JHJ 9M4RLD,147.7,-,0.6,Tone,127.3,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,JASRA Gunung Ledang Linking
+75,JHj 9M4RJB,145.775,-,0.6,Tone,127.3,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,JASRA Aloha Tower Local
+76,JHj 9M4RJP,439.65,-,0.5,Tone,127.3,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,JASRA Gunung Pulai Local
+77,MEj 9M4RML,439.44,-,0.5,Tone,127.3,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,JASRA Bukit Beruang Local
+78,JHM 9M2RGP,145.725,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Pulai Linking
+79,JHM 9M4RLM,147.6,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Ledang Linking
+80,JHm 9M2RGP,147.825,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Gunung Pulai Local
+81,JHm 9M2RGL,145.525,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Gunung Ledang Local
+82,JHm 9M4RSE,439.475,-,5,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Segamat Local
+83,JHa 9M4RAK,147.8,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Lambak Local
+84,JHa 9M4RBN,147.85,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Banang Local
+85,JHa 9M4RAU,146.75,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Jemaluang Local
+86,JHa 9M4RSG,147.65,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Segamat Local
+87,JHa 9M4RAJ,146.65,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Segamat Local
+88,JHA 9M4RGP,145.7375,-,0.6,Tone,85.4,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Pulai Transnational
+89,JHa 9M4RAP,147.75,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Pulai Local
+90,JHa 9M4RLK,147.6125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Kg Lukut, Kota Tinggi Local"
+91,JHa 9M4RKL,145.6125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Kg Lukut, Kota Tinggi Local"
+92,JHA 9M4RGL,147.9875,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Ledang Transnational
+93,JHa 9M4RAL,146.9375,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Ledang Local
+94,NSM 9M4RTB,146.675,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Telapak Burok Linking
+95,KLM 9M2RKL,439.85,-,5,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Bukit Lanjan Linking
+96,PHM 9M4RLG,147.9,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Ulu Kali Linking
+97,SLm 9M2RKK,147.98,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Bukit Lanjan Local
+98,KLm 9M2RKL,439.6,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Bukit Lanjan Local
+99,SLa 9M4RBC,147.8625,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Bukit Chinchin, Ulu Kali Local"
+100,PHr 9M4RES,147.775,-,0.6,Tone,123,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARES Gunung Ulu Kali
+101,KLr 9M4RUM,439.8,-,5,Tone,123,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARES Bukit Besi
+102,SGR 9M4RTC,147.675,-,0.6,Tone,151.4,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,RADAS Selangor
+103,KUL 9M4RZS,147.65,-,0.6,Tone,233.6,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,RAKL
+104,PHM 9M4RCH,146.9875,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Brinchang Linking
+105,PKM 9M2RKV,146.925,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Kledang Linking
+106,KHM 9M4RJR,145.6625,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Gunung Jerai Linking
+107,PKM 9M4RRB,147.9125,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 TM Mendelum Pandangan Indah Linking
+108,KNM 9M4RKH,146.6125,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Bukit Bakar Linking
+109,PHM 9M4RLS,146.9,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Bukit Sulai Linking
+110,PKM 9M2RKV,145.7875,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L2 Gunung Kledang Linking
+111,MEm 9M4RMU,439.825,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Hotel Equatorial Local
+112,MEm 9M4RHE,146.8,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Hotel Equatorial Local
+113,PKm 9M4RIC,439.7875,-,5,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Gunung Kledang Local
+114,PGm 9M4RPP,439.525,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Bukit Bendera Local
+115,PGm 9M2RBB,147.95,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Bukit Penara Local
+116,PGM 9M4RPH,147.825,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Bukit Bendera Linking
+117,JHa 9M4RAM,147.85,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Selantai Local
+118,SAm 9M4RPB,439.85,-,5,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Kota Kinabalu
+119,SKm 9M4REW,439.85,-,5,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Kuching
+120,SLa 9M4RPJ,147.8625,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Shah Alam Local
+121,PKM 9M4RSK,146.9875,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Sg Kejar Royal Belum Linking
+122,SLm 9M2RUK,146.9875,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Gunung Ulu Kali Local
+123,PLm 9M2RMK,147.98,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Kangar Local
+124,PKM 9M4RLT,146.925,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L2 Bukit Larut Linking
+125,JHm 9M4RMR,146.925,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS Muar Local
+126,PKM 9M4RLT,146.6125,-,0.6,Tone,203.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,MARTS L1 Bukit Larut Linking
+127,MEa 9M4RKA,147.925,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Alor Gajah Local
+128,MEa 9M4RMA,146.75,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Alor Gajah Local
+129,SLa 9M4RPJ,439.75,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Shah Alam Local
+130,PHA 9M4RAA,147.6125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Telemung Transnational
+131,PHa 9M4RGH,145.675,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Genting Highlands Local
+132,PHA 9M4RCF,147.6125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Frazer Transnational
+133,PHA 9M4RGB,147.925,-,3.725,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Brinchang Transnational
+134,PKA 9M4RBK,147.6125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Keledang Transnational
+135,PKA 9M4RAG,147.8,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Grik Transnational
+136,PKA 9M4RTH,147.8625,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Tapah Transnational
+137,PKA 9M4RUB,144.725,-,0.6,Tone,85.4,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Ungku Busu Transnational
+138,PKa 9M4RSP,146.8125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Lenggong Local
+139,PGa 9M4RBB,145.7375,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Bendera Local
+140,PKA 9M4RBL,147.925,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Larut Transnational
+141,KHa 9M4LBP,147.7375,-,0.7,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Tebuan Local
+142,KHa 9M4RBH,146.875,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Palong Local
+143,KHA 9M4RBD,146.625,-,0.7,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Dedap Transnational
+144,KHa 9M4RKG,147.8625,-,0.6,Tone,85.4,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Keriang Local
+145,KHa 9M4RLJ,147.6125,-,0.6,Tone,85.4,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Jerai Local
+146,KHA 9M4RGJ,147.675,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Jerai Transnational
+147,KHA 9M4RGR,145.6125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Gunung Raya Transnational
+148,PLa 9M4RHP,147.8,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Tunjung Local
+149,PKa 9M4RPI,147.9875,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Pandangan Indah Titiwangsa Local
+150,KNA 9M4RVA,146.8125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bangunan PKNK Kota Bahru Transnational
+151,KNA 9M4RDB,147.8,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Jeli Transnational
+152,KNa 9M4RBP,146.7,-,0.6,Tone,85.4,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Panau Local
+153,KNA 9M4RDF,146.8125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Gua Serai, Gua Musang Transnational"
+154,TEa 9M4RTE,146.625,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Bauk Local
+155,TEA 9M4RST,147.7375,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Bukit Bintang, Besut Transnational"
+156,TEa 9M4RAC,146.6875,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Bukit Bubus, Besut Local"
+157,KNa 9M4RDE,146.875,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,"ASTRA Bukit Tembeling, Kuala Kerai Local"
+158,KNA 9M4RVB,146.8125,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Lebuhraya Timur Barat KM62 Transnational
+159,TEa 9M4RTK,146.75,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Kesing Local
+160,PHA 9M4RTS,146.9375,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Sulai Transnational
+161,TEA 9M4RAS,147.925,-,0.6,Tone,103.5,88.5,23,NN,23,Tone->Tone,FM,12.5,,5.0W,ASTRA Bukit Geliga Transnational
