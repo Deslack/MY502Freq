@@ -5,24 +5,24 @@ Instead of solely using the repeater's callsign, I decided to add some annotatio
 
 Since the official state code in Malaysia as per ISO3166-2 are mere digits and not as cool nor as helpful as shortform alphabetic characters like in the United States, I stumbled upon Statoids (https://statoids.com/umy.html)
 
-|      State      |  HASC |
-|:---------------:|:-----:|
-| Johor           | MY.JH |
-| Kedah           | MY.KH |
-| Kelantan        | MY.KN |
-| Kuala Lumpur    | MY.KL |
-| Labuan          | MY.LA |
-| Melaka          | MY.ME |
-| Negeri Sembilan | MY.NS |
-| Pahang          | MY.PH |
-| Perak           | MY.PK |
-| Perlis          | MY.PL |
-| Pulau Pinang    | MY.PG |
-| Putrajaya       | MY.PJ |
-| Sabah           | MY.SA |
-| Sarawak         | MY.SK |
-| Selangor        | MY.SL |
-| Terengganu      | MY.TE |
+|      State      | Abbr. |  HASC |
+|:---------------:|:-----:|:-----:|
+| Johor           |  JHR  | MY.JH |
+| Kedah           |  KDH  | MY.KH |
+| Kelantan        |  KTN  | MY.KN |
+| Kuala Lumpur    |  KUL  | MY.KL |
+| Labuan          |  LBN  | MY.LA |
+| Melaka          |  MLK  | MY.ME |
+| Negeri Sembilan |  NSN  | MY.NS |
+| Pahang          |  PHG  | MY.PH |
+| Perak           |  PRK  | MY.PK |
+| Perlis          |  PLS  | MY.PL |
+| Pulau Pinang    |  PNG  | MY.PG |
+| Putrajaya       |  PJY  | MY.PJ |
+| Sabah           |  SBH  | MY.SA |
+| Sarawak         |  SWK  | MY.SK |
+| Selangor        |  SGR  | MY.SL |
+| Terengganu      |  TRG  | MY.TE |
 
 I used the two-letter abbreviations, and appended a character denoting the club ownership of the repeater, linking or transnational in uppercase, local in lowercase.
 
