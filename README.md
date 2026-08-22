@@ -37,4 +37,4 @@ I set them up for my Quansheng UV-K5(8) handheld radio for programming via the e
 
 Also, a friendly disclaimer: Only radios approved by MCMC are allowed to transmit (TX) on PMR446 frequencies. This is due to its strict TX power requirements (0.5w) and non-detachable antennas.
 
-Well have fun from me 9W2DSL, 73.
+Well have fun from me 9M2DSL, 73.
